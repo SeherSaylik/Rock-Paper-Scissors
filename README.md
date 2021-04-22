@@ -1,3 +1,2 @@
-# reach_rockpaperscissors
-
-This repo contains a code from https://reach.sh/ tutorial 8. In order to run the code, download and in terminal run ./reach react command. 
+***What does this repository for?***
+This project is created to play rock-paper-scissors between two people on the ethereum network.
